@@ -47,9 +47,7 @@
 
 --- -->
 
-### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/floraguruleva/badges/large)
 
 ### ⚙️ GitHub статистика:
 
