@@ -8,7 +8,7 @@
 Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с CanSheCode. 
 
 
-- :seedling: Завершил курсы по веб-разработке с CanSheCode!
+- :seedling: Завершилf курсы по веб-разработке с CanSheCode!
 
 
 - :mailbox: Как связаться со мной:  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:floraguruleva18@gmail.com)
